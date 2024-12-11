@@ -1,5 +1,3 @@
-//create variables for  click evennts menu
-
 const menu = document.getElementsByClassName("menu-btn")[0];
 const nav = document.getElementsByClassName("nav")[0];
 
